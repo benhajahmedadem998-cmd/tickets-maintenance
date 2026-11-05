@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "titre": "Connexion au portail",
+      "description": "L’utilisateur ne parvient plus à se connecter au portail interne.",
+      "demandeur": "Alice Martin",
+      "priorite": "Haute",
+      "statut": "En cours",
+      "dateCreation": "2026-11-05"
+    },
+    {
+      "id": "2",
+      "titre": "Clavier défectueux",
+      "description": "Le clavier du poste 12 ne répond plus correctement sur certaines touches.",
+      "demandeur": "Bruno Dupont",
+      "priorite": "Moyenne",
+      "statut": "En cours",
+      "dateCreation": "2026-11-04"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
